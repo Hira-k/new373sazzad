@@ -44,14 +44,14 @@
 	    Jakarta Doha
 	    Jakarta Cairo
 	    Jakarta London/*/
-	    System.out.println(connectingCities);
-	
-	   for (String i : connectingCities.keySet()) {
-	
-		System.out.println("key: " + i + " value: " + connectingCities.get(i));
-	    }
-	  }
+	    System.out.println(connectingCities);}
 	}
+	   //for (String i : connectingCities.keySet()) {
+	
+		//System.out.println("key: " + i + " value: " + connectingCities.get(i));
+	    
+	  
+	
 
 
 	
