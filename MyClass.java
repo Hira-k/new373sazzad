@@ -48,7 +48,7 @@
 	
 	   for (String i : connectingCities.keySet()) {
 	
-		//System.out.println("key: " + i + " value: " + connectingCities.get(i));
+		System.out.println("key: " + i + " value: " + connectingCities.get(i));
 	    }
 	  }
 	}
